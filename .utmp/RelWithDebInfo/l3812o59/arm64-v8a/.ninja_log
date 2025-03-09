@@ -1,0 +1,23 @@
+# ninja log v5
+18	1327	7601919179568123	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	dc1c6b9a2a3d197f
+2022	2117	7601919188962456	E:/Unity Related/Unity Project/Project-02-Runapop-main/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/l3812o59/obj/arm64-v8a/libgame.so	8c84623cb0053bce
+5	1475	7601919181129262	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	8b25723e786ec1aa
+28	1466	7601919179869838	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	7c2c633d38996a64
+23	1467	7601919181129262	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	2b2980384030ee93
+9	1473	7601919181139281	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	54f3e8bef7c9f730
+32	1472	7601919181116425	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	9058841dbedc171c
+38	3854	7601919205105381	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	c42274db6113a0ee
+1	1787	7601919184451373	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	850f129aa45041d6
+14	1833	7601919185130459	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	383b3c5ec1aa058a
+3854	5973	7601919227513319	E:/Unity Related/Unity Project/Project-02-Runapop-main/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/l3812o59/obj/arm64-v8a/libswappywrapper.so	daf70c2825692abc
+83	215	7601929835922988	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	c42274db6113a0ee
+216	333	7601929837088410	E:/Unity Related/Unity Project/Project-02-Runapop-main/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/l3812o59/obj/arm64-v8a/libswappywrapper.so	daf70c2825692abc
+5	904	7601929841499893	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	2b2980384030ee93
+63	905	7601929841499893	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	dc1c6b9a2a3d197f
+42	906	7601929841499893	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	54f3e8bef7c9f730
+54	910	7601929841509895	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	7c2c633d38996a64
+15	914	7601929842802757	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	8b25723e786ec1aa
+77	916	7601929842802757	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	9058841dbedc171c
+71	1061	7601929844385149	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	383b3c5ec1aa058a
+29	1143	7601929845172754	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	850f129aa45041d6
+1143	1219	7601929845970660	E:/Unity Related/Unity Project/Project-02-Runapop-main/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/l3812o59/obj/arm64-v8a/libgame.so	8c84623cb0053bce
